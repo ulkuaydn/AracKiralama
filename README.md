@@ -49,4 +49,4 @@ Bu uygulama sayesinde:
 ## Uygulama Tanıtım Videosu
 [Youtube Tanıtım Videosu](https://youtu.be/rK33kYZiI8M?si=zohZBiJi_3BkVqYH)
 ### HAZIRLAYAN
-- ÜLKÜ AYDIN -
+- ÜLKÜ AYDIN 
