@@ -18,11 +18,11 @@ Kiraladığımız araç için fiyat bilgisi alabiliyoruz.
 Uygulamaya üye olarak üyelik güvencesi içinde oluyoruz.
 
 # Öne Çıkan Özellikler
-Giriş sayfası
-Üyelik Sayfası
-Araçlarım Sayfası
-Araç özellik ve kiralama sayfası
-Kiralama takvimi
-Kiralamalarım Sayfası
-Admin sayfası
-Sayfa yenileme ve Çıkış yap butonları.
+*Giriş sayfası
+*Üyelik Sayfası
+*Araçlarım Sayfası
+*Araç özellik ve kiralama sayfası
+*Kiralama takvimi
+*Kiralamalarım Sayfası
+*Admin sayfası
+*Sayfa yenileme ve Çıkış yap butonları.
