@@ -1,6 +1,5 @@
 # Araç Kiralama Uygulamam
 
-## Oyunun Amacı
 Araç kiralama uygulamam, kolayca ve hızlıca araç kiralayabileceğiniz, gün ve fiyat bilgisi alabileceğiniz bir mobil uygulamadır. Kullanıcı dostu arayüzü ve modern tasarımıyla araç kiralama uygulamamız, kolayca araç kiralamanın yanı sıra, hayatınızda zamanınızı daha verimli kullanmanıza yardımcı olur ve hızlıca zaman kaybetmeden güvenilir şekilde istediğiniz aracı kiralayabilirsiniz.
 
 Bu proje, Flutter kullanılarak geliştirilmiş ve sqflite kullanılmıştır. Mobil Programlama dersi Final projesi olarak tasarlanmıştır.
