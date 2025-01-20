@@ -15,7 +15,8 @@ Zamandan tasarruf edebiliriz.
 Araç bilgilerine yazılı ulaşabiliyoruz.
 Araç müsaitlik durumunu görebiliyoruz.
 Kiraladığımız araç için fiyat bilgisi alabiliyoruz.
-Uygulamaya üye olarak üyelik güvencesi içinde oluyoruz.
+Uygulamaya üye olarak üyelik güvencesi içi![Ekran görüntüsü 2025-01-20 231311](https://github.com/user-attachments/assets/8183bbe0-5011-498d-819e-14f9d25dd82e)
+nde oluyoruz.
 
 # Öne Çıkan Özellikler
 *Giriş sayfası
