@@ -26,7 +26,7 @@ Bu uygulama sayesinde:
 - Admin Sayfası
 - Sayfa Yenileme ve Çıkış Yap Butonları
 
-## Menu Seviyesi
+#ARAYÜZ GÖRSELLERİ
 ![Menu Seviyesi](https://github.com/user-attachments/assets/ace2fc1f-b5fb-4737-bebc-39137418e842)
 
 ## Görüntüler
