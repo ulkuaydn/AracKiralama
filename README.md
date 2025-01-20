@@ -38,13 +38,13 @@ Bu uygulama sayesinde:
 * ## Tarih Ekranı
 ![Kiralama Takvimi](https://github.com/user-attachments/assets/54a8d06a-7d39-4674-b341-4022df892a66)
 * ## Tarih Seçim Ekranı
-![tarih Seçimi](https://github.com/user-attachments/assets/0e0703f8-57c8-49e3-a76f-679435d8e217)
+![Tarih Seçimi](https://github.com/user-attachments/assets/0e0703f8-57c8-49e3-a76f-679435d8e217)
 * ## Kiralama Ekranı
-![Admin Sayfası](https://github.com/user-attachments/assets/66a91368-526a-4649-b0b2-572277efc512)
+![Kiralama Ekranı](https://github.com/user-attachments/assets/66a91368-526a-4649-b0b2-572277efc512)
 * ## Admin Paneli
-![Sayfa Yenileme Butonu](https://github.com/user-attachments/assets/15fc7b02-ccb7-4b66-912f-669ce0671ff0)
+![Admin Paneli](https://github.com/user-attachments/assets/15fc7b02-ccb7-4b66-912f-669ce0671ff0)
 * ## Araç Kiralama Onay Ekranı
-![Çıkış Yap Butonu](https://github.com/user-attachments/assets/dc63ec05-7074-418b-931b-656d76843cc5)
+![Onay Ekranı](https://github.com/user-attachments/assets/dc63ec05-7074-418b-931b-656d76843cc5)
 
 ## Uygulama Tanıtım Videosu
 [Youtube Tanıtım Videosu](https://youtu.be/rK33kYZiI8M?si=zohZBiJi_3BkVqYH)
