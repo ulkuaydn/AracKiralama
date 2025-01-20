@@ -26,9 +26,9 @@ Bu uygulama sayesinde:
 - Sayfa Yenileme ve Çıkış Yap Butonları
 
 #  ARAYÜZ GÖRSELLERİ
- *  Giriş Ekranı
+ * ## Giriş Ekranı
 ![Menu Seviyesi](https://github.com/user-attachments/assets/ace2fc1f-b5fb-4737-bebc-39137418e842)
-## Üye Ol Ekranı
+*## Üye Ol Ekranı
 ![Giriş Sayfası](https://github.com/user-attachments/assets/aa33c99d-f3a8-4476-8228-a7c000bfc3d6)
 ## Araçlar Ekranı
 ![Üye Ol Sayfası](https://github.com/user-attachments/assets/da5a3e9a-e29e-4447-ab7c-215ebc7a499e)
