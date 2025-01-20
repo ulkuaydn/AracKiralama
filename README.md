@@ -1,4 +1,4 @@
-# Araç Kiralama Uygulamam
+<center><h1>Araç Kiralama Uygulamam</h1></center>
 
 Araç kiralama uygulamam, kolayca ve hızlıca araç kiralayabileceğiniz, gün ve fiyat bilgisi alabileceğiniz bir mobil uygulamadır. Kullanıcı dostu arayüzü ve modern tasarımıyla araç kiralama uygulamamız, kolayca araç kiralamanın yanı sıra, hayatınızda zamanınızı daha verimli kullanmanıza yardımcı olur ve hızlıca zaman kaybetmeden güvenilir şekilde istediğiniz aracı kiralayabilirsiniz.
 
